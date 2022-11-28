@@ -4,6 +4,4 @@ chip50_undervoltage for 0.6 V
 chip50_overvoltage for1.4 V
 
 
-<img src="https://github.com/Centre-for-Hardware-Security/TALTECH-PUF/blob/master/SRAM_PUF_current_distribution.pdf" alt="Alt text" title="Current distribution">
-
-![Alt text](/posts/path/to/https://github.com/Centre-for-Hardware-Security/TALTECH-PUF/blob/master/SRAM_PUF_current_distribution.pdf "Optional title")
+<img src="https://github.com/Centre-for-Hardware-Security/TALTECH-PUF/blob/master/SRAM_PUF_current_distribution.pdf" alt="Current distribution" title="Current distribution">
