@@ -1,7 +1,6 @@
 # TALTECH-PUF
-The measurement of the SRAM PUF on 65nm commercial technology. 
-chip50_undervoltage for 0.6 V
-chip50_overvoltage for1.4 V
+This repository contains data collected from 50 chips. We designed and fabricated a 65nm CMOS chip that includes eleven SRAM macros. These macros exercise different memory and chip-level parameters. At the memory level, several parameters are passed to the SRAM compiler, including the number of addresses, the number of words, the aspect ratio, and the chosen bitcell. During the floorplan, chip-level decisions are considered, such as the location and rotation of each SRAM macro in the test chip. 
 
+This measurement was conducted at the Centre for Hardware Security, Tallinn University of Technology (TalTech), Estonia. The purpose of the measurement was to analyze the impact of design-time decisions and their effect on robustness. The analysis of SRAM-based PUFs can be found in the accompanying paper.
 
-<img src="https://github.com/Centre-for-Hardware-Security/TALTECH-PUF/blob/master/SRAM_PUF_current_distribution.pdf" alt="Current distribution" title="Current distribution">
+[The preprint is available on the following link:](https://arxiv.org/pdf/2308.06730.pdf)https://arxiv.org/pdf/2308.06730.pdf
