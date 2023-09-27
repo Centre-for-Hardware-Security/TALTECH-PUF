@@ -3,4 +3,6 @@ This repository contains data collected from 50 chips. We designed and fabricate
 
 This measurement was conducted at the Centre for Hardware Security, Tallinn University of Technology (TalTech), Estonia. The purpose of the measurement was to analyze the impact of design-time decisions and their effect on robustness. The analysis of SRAM-based PUFs can be found in the accompanying paper.
 
-[The preprint is available on the following link:](https://arxiv.org/pdf/2308.06730.pdf)https://arxiv.org/pdf/2308.06730.pdf
+How to cite this work: “Impact of Orientation on the Bias of SRAM-Based PUFs," IEEE Design & Test, 2023.
+
+The preprint is available on the following link: [https://arxiv.org/pdf/2308.06730.pdf](https://arxiv.org/pdf/2308.06730.pdf)
