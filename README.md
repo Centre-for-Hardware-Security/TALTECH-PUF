@@ -3,7 +3,17 @@ This repository contains data collected from 50 chips. We designed and fabricate
 
 These measurements were conducted at the Centre for Hardware Security, Tallinn University of Technology (TalTech), Estonia. The measurement aimed to analyze the impact of design-time decisions and their effect on robustness. The analysis of SRAM-based PUFs can be found in the accompanying paper.
 
-How to cite this work: “Impact of Orientation on the Bias of SRAM-Based PUFs," IEEE Design & Test, 2023.
+How to cite this work:
+1- Z. U. Abideen, R. Wang, T. D. Perez, G. -J. Schrijen and S. Pagliarini, "Impact of Orientation on the Bias of SRAM-Based PUFs," in IEEE Design & Test, doi: 10.1109/MDAT.2023.3322621.
+2- @ARTICLE{ZAIN_PUF,
+  author={Abideen, Zain Ul and Wang, Rui and Perez, Tiago Diadami and Schrijen, Geert-Jan and Pagliarini, Samuel},
+  journal={IEEE Design & Test}, 
+  title={Impact of Orientation on the Bias of SRAM-Based PUFs}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/MDAT.2023.3322621}}
 
 The published paper is available on the following link: [https://ieeexplore.ieee.org/document/10273403](https://ieeexplore.ieee.org/document/10273403)
 
